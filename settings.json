@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Shubh-src-AFKbot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "YTSURVIVAL-ReMS.aternos.me",
     "port": 28998,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
